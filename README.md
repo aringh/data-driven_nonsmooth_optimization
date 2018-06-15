@@ -49,3 +49,9 @@ johan.karlsson@math.kth.se
 Department of Mathematics, KTH Royal Institute of Technology, Stockholm, Sweden  
 ozan@kth.se
 
+
+Funding
+-------
+We acknowledge Swedish Foundation of Strategic Research grants AM13-0049 and ID14-0055, Swedish Research Council grant 2014-5870 and support from [Elekta](https://www.elekta.com/).
+
+The authors thank Dr. Cynthia McCollough, the Mayo Clinic, and the American Association of Physicists in Medicine for providing the data necessary for performing comparison using a human phantom.

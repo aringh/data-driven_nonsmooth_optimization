@@ -1,7 +1,7 @@
 Data-drive nonsmooth optimization
 =====================================
 
-This repository contains the code for the article "Data-driven nonsmooth optimization" by S. Banert, A. Ringh, J. Adler, J. Karlsson, and O. Öktem.
+This repository contains the code for the article "Data-driven nonsmooth optimization" by S. Banert, A. Ringh, J. Adler, J. Karlsson, and O. Öktem. An arxiv version of the article can be found [here](https://arxiv.org/abs/1808.00946).
 
 Contents
 --------
